@@ -1,0 +1,77 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+img{
+    display: block;
+    margin: auto;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+div#form form{
+    width: 1210px ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(236, 234, 234);
+}
+
+
+div#alllinks{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div.links1{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+    background-color: #7EE5DA;
+    width: 400px;
+    height: 100px;
+}
+
+div.links2{
+    margin-top: 5px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+    background-color:#70CCC2;
+    width: 400px;
+    height: 100px;
+}
+
+div.links3{
+    margin-top: 5px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+    background-color:#62B3AA;
+    width: 400px;
+    height: 100px;
+}
